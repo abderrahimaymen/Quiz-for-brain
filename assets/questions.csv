@@ -1,0 +1,16 @@
+id,text,answer,category,points
+e1,What is the primary color of the sun?,Yellow,easy,10
+e2,How many days are in a week?,7,easy,10
+e3,What sound does a cat make?,Meow,easy,10
+e4,What is 5 + 3?,8,easy,10
+e5,Which animal is known as 'man's best friend'?,Dog,easy,10
+m1,What is the capital of Japan?,Tokyo,medium,20
+m2,How many planets are in our solar system?,8,medium,20
+m3,What gas do plants absorb from the atmosphere?,Carbon Dioxide,medium,20
+m4,Who painted the Mona Lisa?,Leonardo da Vinci,medium,20
+m5,What is the largest ocean on Earth?,Pacific Ocean,medium,20
+h1,What is the chemical symbol for water?,H2O,hard,30
+h2,In what year did World War II end?,1945,hard,30
+h3,Who developed the theory of relativity?,Albert Einstein,hard,30
+h4,What is the hardest known natural material?,Diamond,hard,30
+h5,What is the square root of 144?,12,hard,30
