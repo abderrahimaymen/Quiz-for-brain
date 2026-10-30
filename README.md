@@ -1,6 +1,6 @@
 # brain_spark_quiz
 
-A new Flutter project.
+
 
 ## Getting Started
 
